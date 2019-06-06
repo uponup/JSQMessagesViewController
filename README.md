@@ -1,6 +1,3 @@
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
-
-# :warning: Deprecated :warning:
 
 This library is deprecated. Please read [my blog post](http://www.jessesquires.com/blog/officially-deprecating-jsqmessagesviewcontroller/) for details.
 
